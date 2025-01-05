@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+
+word2vec-google-news-300.wordvectors.vectors.npy
+word2vec-google-news-300.wordvectors
